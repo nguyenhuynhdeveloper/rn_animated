@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "demo_rn_animated.app"
-               BlueprintName = "demo_rn_animated"
-               ReferencedContainer = "container:demo_rn_animated.xcodeproj">
+               BuildableName = "rn_animated.app"
+               BlueprintName = "rn_animated"
+               ReferencedContainer = "container:rn_animated.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "demo_rn_animatedTests.xctest"
-               BlueprintName = "demo_rn_animatedTests"
-               ReferencedContainer = "container:demo_rn_animated.xcodeproj">
+               BuildableName = "rn_animatedTests.xctest"
+               BlueprintName = "rn_animatedTests"
+               ReferencedContainer = "container:rn_animated.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "demo_rn_animated.app"
-            BlueprintName = "demo_rn_animated"
-            ReferencedContainer = "container:demo_rn_animated.xcodeproj">
+            BuildableName = "rn_animated.app"
+            BlueprintName = "rn_animated"
+            ReferencedContainer = "container:rn_animated.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "demo_rn_animated.app"
-            BlueprintName = "demo_rn_animated"
-            ReferencedContainer = "container:demo_rn_animated.xcodeproj">
+            BuildableName = "rn_animated.app"
+            BlueprintName = "rn_animated"
+            ReferencedContainer = "container:rn_animated.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

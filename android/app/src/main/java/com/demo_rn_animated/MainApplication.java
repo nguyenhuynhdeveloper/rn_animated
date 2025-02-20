@@ -1,4 +1,4 @@
-package com.demo_rn_animated;
+package com.rn_animated;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

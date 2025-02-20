@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.demo_rn_animated"
+    namespace "com.rn_animated"
     defaultConfig {
-        applicationId "com.demo_rn_animated"
+        applicationId "com.rn_animated"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

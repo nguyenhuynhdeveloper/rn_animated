@@ -1,4 +1,4 @@
-package com.demo_rn_animated;
+package com.rn_animated;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "demo_rn_animated";
+    return "rn_animated";
   }
 
   /**
